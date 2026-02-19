@@ -70,7 +70,8 @@ Key classes:
 
 ## Screenshots
 - **menu.png**: Main menu  
-  ![Main Menu](screenshots/menu.png)
+  ![Main Menu]<img width="1920" height="1020" alt="menu png" src="https://github.com/user-attachments/assets/22564aef-914f-4b9d-8ac9-16be1ff18146" />
+)
 - **add_record.png**: Adding a student  
   ![Add Student](screenshots/add_record.png)
 - **view_all.png**: Viewing all students  
