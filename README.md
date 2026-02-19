@@ -75,7 +75,7 @@ Key classes:
   ![Add Student](screenshots/add_record.png)
 - **view_all.png**: Viewing all students  
   ![View Students](screenshots/view_all.png)
-- **export.png**: Exporting to CSV  
+- **delete_student.png**: Exporting to CSV  
   ![Export](screenshots/export.png)
 
 ## Reflection
