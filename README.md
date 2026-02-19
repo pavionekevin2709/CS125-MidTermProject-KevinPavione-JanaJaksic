@@ -73,11 +73,15 @@ Key classes:
   ![Main Menu]<img width="1920" height="1020" alt="menu png" src="https://github.com/user-attachments/assets/22564aef-914f-4b9d-8ac9-16be1ff18146" />
 )
 - **add_record.png**: Adding a student  
-  ![Add Student](screenshots/add_record.png)
+  ![Add Student]<img width="1920" height="1020" alt="add_record png" src="https://github.com/user-attachments/assets/af48e709-ed60-4ddf-8ae4-15eb1833c728" />
+
+
 - **view_all.png**: Viewing all students  
-  ![View Students](screenshots/view_all.png)
+  ![View Students]<img width="1920" height="1020" alt="view_all png" src="https://github.com/user-attachments/assets/5e0d47fc-44d8-4b60-bc37-b967618c06ce" />
+
 - **export_csv.png**: Exporting to CSV 
-  ![Export](screenshots/export.png)
+  ![Export]<img width="1920" height="1020" alt="export png" src="https://github.com/user-attachments/assets/fbb63a1c-dfba-4e08-bb38-8faab9d10d5d" />
+
 
 ## Reflection
 Challenges: Handling confirmations and cascading deletes; solved with try-except and ON DELETE CASCADE. Learned deeper OOP (inheritance, polymorphism) and SQLite best practices. Future: Add search/filter, web UI, more reports.
